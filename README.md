@@ -93,3 +93,4 @@ bne $s0, $s4, loop3
 addi $s4, $s4, 4096
 ble $s4, 16777216, loop3
 j main
+(commit 3)
